@@ -10,7 +10,7 @@ Este projeto é um CRUD desenvolvido em Kotlin e Spring Boot para o back-end de 
   - Spring Data JPA
 - **Banco de Dados**: H2 Database
 - **Migrations**: Flyway
-- **Gerenciamento de Dependências**: Maven/Gradle
+- **Gerenciamento de Dependências**: Gradle
 
 ## Estrutura do Projeto
 ```
